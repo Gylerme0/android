@@ -63,6 +63,8 @@ header>p {
 nav {
     background-color: var(--cor5);
     padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 nav a {
